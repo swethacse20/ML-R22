@@ -51,7 +51,7 @@
   >Principal Component Analysis<br>
   >Factor Analysis<br>
   >Independent Component Analysis<br>
-  >Locally Linear Embedding<br>
+  >Locally Linear Embedding [link](https://medium.com/analytics-vidhya/locally-linear-embedding-lle-data-mining-b956616d24e9)<br>
   >Isomap<br>
   >Least Squares Optimization<br>
 - Evolutionary Learning<br>
