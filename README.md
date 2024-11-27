@@ -2,13 +2,13 @@
 
 ## Unit: I 
 -Learning<br>
-  >Types of Machine Learning<br>[link](https://medium.com/analytics-vidhya/an-introduction-to-machine-learning-574bafa6fc66)
+  >Types of Machine Learning[link](https://medium.com/analytics-vidhya/an-introduction-to-machine-learning-574bafa6fc66)<br>
   >Supervised Learning<br>
   >The Brain and the Neuron<br>
-  >Design a Learning System <br>[link](https://medium.datadriveninvestor.com/3-steps-introduction-to-machine-learning-and-design-of-a-learning-system-bd12b65aa50c) </br>
+  >Design a Learning System [link](https://medium.datadriveninvestor.com/3-steps-introduction-to-machine-learning-and-design-of-a-learning-system-bd12b65aa50c) </br>
   >Perspectives and Issues in Machine Learning<br>
 -Concept Learning Task<br>
-  >concept Learning as Search<br> [link](https://medium.com/@pralhad2481/chapter-2-concept-learning-part-2-d8aa0761143e)
+  >concept Learning as Search<br> [link](https://medium.com/@pralhad2481/chapter-2-concept-learning-part-2-d8aa0761143e)<br>
   >Finding a Maximally Specific Hypothesis<br>
   >Version Spaces and the Candidate Elimination Algorithm<br>
   >Linear Discriminants: Perceptron <br>[video](https://www.youtube.com/watch?v=ktGm0WCoQOg)<br>
@@ -18,8 +18,8 @@
 ## Unit: II
 -Multi-layer Perceptron<br>
   >Going Forwards<br>
-  >Going Backwards: Back Propagation Error<br> [video](https://www.youtube.com/watch?v=aircAruvnKk)
-  >Multi-layer Perceptron in Practice <br>[link](https://medium.com/edureka/backpropagation-bd2cf8fdde81)<br>
+  >Going Backwards: Back Propagation Error [video](https://www.youtube.com/watch?v=aircAruvnKk)<br>
+  >Multi-layer Perceptron in Practice [link](https://medium.com/edureka/backpropagation-bd2cf8fdde81)<br>
   >Examples of using the MLP-Overview<br>
   >Deriving Back-Propagation<br>
 -Radial Basis Functions and Splines<br>
@@ -31,7 +31,7 @@
 
 ## Unit: III
 -Learning with Trees<br>
-  >Decision Trees<br>[link](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
+  >Decision Trees[link](https://medium.com/@MrBam44/decision-trees-91f61a42c724)<br>
   >Constructing Decision Trees<br>
   >Classification and Regression Trees<br>
 -Ensemble Learning<br>
