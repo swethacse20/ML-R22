@@ -48,7 +48,7 @@
 ## Unit: IV
 - Dimensionality Reduction<br>
   >Linear Discriminant Analysis<br>
-  >Principal Component Analysis<br>
+  >Principal Component Analysis[link](https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9)<br>
   >Factor Analysis<br>
   >Independent Component Analysis<br>
   >Locally Linear Embedding [link](https://medium.com/analytics-vidhya/locally-linear-embedding-lle-data-mining-b956616d24e9)<br>
