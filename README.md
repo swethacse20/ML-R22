@@ -36,7 +36,7 @@
   >Constructing Decision Trees<br>
   >Classification and Regression Trees<br>
 - Ensemble Learning<br>
-  >Boosting<br>
+  >Boosting [link](https://medium.com/@sumbatilinda/ensemble-learning-in-machine-learning-bagging-boosting-and-stacking-a00c6bae971f)<br>
   >Bagging<br>
   >Different ways to Combine Classifiers<br>
 - Basic Statistics<br>
