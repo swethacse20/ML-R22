@@ -20,7 +20,7 @@
 - Multi-layer Perceptron<br>
   >Going Forwards<br>
   >Going Backwards: Back Propagation Error  [video](https://www.youtube.com/watch?v=aircAruvnKk)<br>
-  >Multi-layer Perceptron in Practice  [link method1](https://medium.com/edureka/backpropagation-bd2cf8fdde81) [link method2] (https://medium.com/@karna.sujan52/back-propagation-algorithm-numerical-solved-f60c6986b643) <br>
+  >Multi-layer Perceptron in Practice  [link method1](https://medium.com/edureka/backpropagation-bd2cf8fdde81) [link method2](https://medium.com/@karna.sujan52/back-propagation-algorithm-numerical-solved-f60c6986b643) <br>
   >Examples of using the MLP-Overview<br>
   >Deriving Back-Propagation<br>
 - Radial Basis Functions and Splines<br>
